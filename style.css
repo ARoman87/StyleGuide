@@ -1,0 +1,297 @@
+
+.title {
+    text-align: center;
+    font-size: 48px;
+    font-family: helvetica;
+    text-decoration: underline;
+}
+
+
+
+.colorClasses {
+    width: 80%;
+    margin: auto;
+    display: flex;  
+    flex-wrap: wrap; 
+    text-align: center;
+    justify-content: center;
+    border: solid 2px black;
+    
+    
+}
+
+.red {
+    background-color: #FF0000;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.green {
+    background-color: #00FF00;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.blue {
+    background-color: #0000FF;
+    border: solid 1px black;
+    color: white;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.gray {
+    background-color: #808080;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.darkGray {
+    background-color: #A9A9A9;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.black {
+    background-color: #000000;
+    color: white;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.floralWhite {
+    background-color: #FFFAF0;
+    color: black;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.darkOrchid {
+    background-color: #9932CC;
+    color: white;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.darkSlateGray {
+    background-color: #2F4F4F;
+    color: white;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.ivory {
+    background-color: #FFFFF0;
+    color: black;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.lightSlateGray {
+    background-color: #778899;
+    color: white;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.lavender {
+    background-color: #E6E6FA;
+    color: black;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.lightBlue {
+    background-color: #ADD8E6;
+    color: black;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.plum {
+    background-color: #DDA0DD;
+    color: black;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.powderBlue {
+    background-color: #B0E0E6;
+    color: black;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.silver {
+    background-color: #C0C0C0;
+    color: black;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.aquaMarine {
+    background-color: #7FFFD4;
+    color: black;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+.blanchedAlmond {
+    background-color: #FFEBCD;
+    color: black;
+    border: solid 1px black;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+
+/*     Fonts Section       */
+
+.fonts {
+    width: 80%;
+    margin: auto;
+    display: flex;  
+    flex-wrap: wrap; 
+    text-align: center;
+    justify-content: center;
+    border: solid 2px black;
+    
+}
+
+.fonts h4 {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.fonts p {
+    font-size: 15px;
+}
+
+.times{
+    font-family: 'Times New Roman', Times, serif;
+    border: solid 1px black;
+    height: 200px;
+    width: 400px;
+    margin: 25px;
+}
+
+.garamond {
+    font-family: garamond;
+    border: solid 1px black;
+    height: 200px;
+    width: 400px;
+    margin: 25px;
+}
+
+.courierNew {
+    font-family: 'Courier New';
+    border: solid 1px black;
+    height: 200px;
+    width: 400px;
+    margin: 25px;
+}
+
+.verdana {
+    font-family: verdana;
+    border: solid 1px black;
+    height: 200px;
+    width: 400px;
+    margin: 25px;
+}
+
+.helvetica {
+    font-family: helvetica;
+    border: solid 1px black;
+    height: 200px;
+    width: 400px;
+    margin: 25px;
+}
+
+.monospace {
+    font-family: monospace;
+    border: solid 1px black;
+    height: 200px;
+    width: 400px;
+    margin: 25px;
+}
+
+.papyrus {
+    font-family: papyrus;
+    border: solid 1px black;
+    height: 200px;
+    width: 400px;
+    margin: 25px;
+}
+
+.copperPlate {
+    font-family: copperplate;
+    border: solid 1px black;
+    height: 200px;
+    width: 400px;
+    margin: 25px;
+}
+
+.arial {
+    font-family: arial;
+    border: solid 1px black;
+    height: 200px;
+    width: 400px;
+    margin: 25px;
+}
+
+/*  Text Section  */
+
+
+.textStyles {
+    width: 80%;
+    margin: auto;
+    display: flex-column;  
+    flex-wrap: wrap; 
+    text-align: center;
+    justify-content: center;
+    border: solid 2px black;
+}
+
+.text,
+.fontContainer,
+.colors {
+    text-align: center;
+    background-color: silver;
+    border: solid 3px black;
+    margin: 50px auto 20px auto;
+    font-family: helvetica;
+
+}
